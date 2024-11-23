@@ -1,0 +1,3 @@
+Temp: 5.54
+Umid: 86
+Stare vreme: broken clouds
